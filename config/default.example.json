@@ -1,0 +1,16 @@
+{
+  "kurento": {
+    "ws_uri": "ws://mconf-demo-sip-magic.redclara.net:8880/kurento",
+    "server" : {
+      "ip_address": "165.227.105.68"
+    },
+    "exit_timeout": 2000,
+    "force_low_resolution": false,
+    "intraframe_request_interval_ms": 5000,
+    "maximum_profile_level_hex": "42e00c"
+  },
+
+  "server": {
+    "port": 8443
+  }
+}
