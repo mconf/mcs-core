@@ -1,0 +1,5 @@
+kurento:
+  kurentoUrl: "URL"
+  kurentoIp: "SERVER_IP"
+  localIpAddress: "LOCAL_IP"
+  exitTimeout: 2000

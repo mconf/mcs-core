@@ -2,7 +2,7 @@ var config = require('config');
 var mcs = require('./lib/media/MCSApiStub.js');
 
 function stopAndExit(error) {
-  var exitTime = config.get('kurento.exit_timeout');
+  var exitTime = config.get('kurento.exitTimeout');
 
   setTimeout( function() { process.exit(1); }, exitTime );
 }
