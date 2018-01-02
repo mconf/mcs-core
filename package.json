@@ -12,7 +12,8 @@
     "kurento-client": "6.6.0",
     "sdp-transform": "*",
     "ws": "^1.1.1",
-    "uuid": "*"
+    "readable-id": "^1.0.0",
+    "js-yaml": "^3.8.3"
   },
   "devDependencies": {
     "jshint": "^2.9.4",
