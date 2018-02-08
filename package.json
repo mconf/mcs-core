@@ -1,6 +1,6 @@
 {
   "name": "mcs-core",
-  "version": "0.0.1-dev",
+  "version": "0.0.4",
   "private": true,
   "scripts": {},
   "dependencies": {
@@ -13,7 +13,11 @@
     "sdp-transform": "*",
     "ws": "^1.1.1",
     "readable-id": "^1.0.0",
-    "js-yaml": "^3.8.3"
+    "js-yaml": "^3.8.3",
+    "sip.js": "0.7.5",
+    "winston": "^2.4.0",
+    "winston-daily-rotate-file": "^1.7.2"
+
   },
   "devDependencies": {
     "jshint": "^2.9.4",
